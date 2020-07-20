@@ -15,11 +15,17 @@ Below is the algorithm of the control panel for controlling 6DOF arm:
 2.1- If the user entered F:
  
   2.1.1- The program will ask the user to promote the joint angles.
+  
    The value of Theta1.
+   
    The value of Theta2.
+   
    The value of Theta3.
+   
    The value of Theta4.
+   
    The value of Theta5.
+   
    The value of Theta6.
    
   2.1.2- The Program will calculate the positions and the rotations and the orientations for the final tranfromation.
@@ -46,6 +52,9 @@ Below is the algorithm of the control panel for controlling 6DOF arm:
     The value of nz.
     
   2.2.2- The Program will calculate the joint angles.
+  
   2.2.3- Output: joint angles (Theta1,Theta2,Theta3,Theta4,Theta5,Theta6).
+  
   2.2.4- robotics arm moves.
+  
 3- End
